@@ -4,7 +4,7 @@ Welcome to the 2019 Programming and Data Analysis Course for the Undergraduate R
 
 ## Overview
 
-The ability to analyze large data sets and write custom scripts is quickly become an essential skill, both in academic biology and in the biotech industry.  This course aims to teach these skills using the Python programming language, and is especially designed for students who are new to coding. Nine interactive workshops will be held:
+The ability to analyze large data sets and write custom scripts is quickly becoming an essential skill, both in academic biology and in the biotech industry.  This course aims to teach these skills using the Python programming language, and is especially designed for students who are new to coding. Nine interactive workshops will be held:
 
 - Workshop 1 (6/18): Introduction to Python and Jupyter Notebooks 
 - Workshop 2 (6/20): Data structures, flow control
@@ -16,7 +16,7 @@ The ability to analyze large data sets and write custom scripts is quickly becom
 - Workshop 8 (7/16): 3rd party packages, single cell analysis
 - Workshop 9 (7/18): Additional resources
 
-The TAs for this course will be Shaina Lu <slu@cshl.edu> and Benjamin Harris <bharris@cshl.edu>. Sessions will be held on Tuesdays and Thursdays from 4:30pm - 6:00pm in the James Library on CSHL's main campus.
+The TAs for this course will be Shaina Lu (<slu@cshl.edu>) and Benjamin Harris (<bharris@cshl.edu>). Sessions will be held on Tuesdays and Thursdays from 4:30pm - 6:00pm in the James Library on CSHL's main campus.
 
 If you decide to attend, please bring a laptop computer so that you can follow along and do the exercises. If you do not have a laptop, please let me know  so that we can make other arrangements. And finally, please talk with your mentor so that you can plan your experiments and meetings ahead of time to accommodate the schedule. 
 
