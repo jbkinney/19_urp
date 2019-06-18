@@ -1,10 +1,11 @@
 # 2019 Programming and Data Analysis Course
 
-Welcome to the 2019 Programming and Data Analysis Course for the Undergraduate Research Program at Cold Spring Harbor Laboratory!
+Welcome to the 2019 Programming and Data Analysis Course for the Undergraduate Research Program at Cold Spring Harbor Laboratory! This Github repository contains the Jupyter notebooks and data sets that we will work through in this course. 
+
 
 ## Summary
 
-Lead instructor: 
+Lead Instructor: 
 - Justin Kinney (<jkinney@cshl.edu>), Assistant Professor
 
 Teaching Assistants: 
@@ -12,11 +13,13 @@ Teaching Assistants:
 - Benjamin Harris (<bharris@cshl.edu>), WSBS Student
 
 Dates: 
-- Tuesdays and Thursdays, 6/18 - 7/18 (except 7/4), 4:30pm - 6:00pm in the James Library (CSHL Main Campus).
+- Tuesdays and Thursdays, 6/18 through 7/18 (except 7/4), 4:30pm - 6:00pm in the James Library (CSHL Main Campus).
 
 Requirements:
-- No prior programming experience is needed
+- No prior programming experience is needed.
 - Students must bring their own computers to each workshop.
+
+Github repository: https://github.com/jbkinney/19_urp
 
 ## Overview
 
@@ -33,10 +36,6 @@ The ability to analyze large data sets and write custom scripts is quickly becom
 - Workshop 9 (7/18): Additional resources
 
 If you decide to attend, please bring a laptop computer so that you can follow along and do the exercises. If you do not have a laptop, please let me know  so that we can make other arrangements. And finally, please **talk with your mentor so that you can plan your experiments and meetings ahead of time** to accommodate the schedule. 
-
-## Repository
-
-This Github repository contains the Jupyter notebooks and data sets that we will work through in this course. 
 
 ## Instructions for use on Binder
 
