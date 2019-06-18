@@ -5,6 +5,8 @@ Welcome to the 2019 Programming and Data Analysis Course for the Undergraduate R
 
 ## Summary
 
+Repository URL: https://github.com/jbkinney/19_urp
+
 Lead Instructor: 
 - Justin Kinney (<jkinney@cshl.edu>), Assistant Professor
 
@@ -19,7 +21,7 @@ Requirements:
 - No prior programming experience is needed.
 - Students must bring their own computers to each workshop.
 
-Github repository: https://github.com/jbkinney/19_urp
+
 
 ## Overview
 
