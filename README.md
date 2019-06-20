@@ -28,9 +28,9 @@ Requirements:
 The ability to analyze large data sets and write custom scripts is quickly becoming an essential skill, both in academic biology and in the biotech industry.  This course aims to introduce these skills using the Python programming language, and is especially designed for students who are new to coding. Nine interactive workshops will be held:
 
 - Workshop 1 (6/18): Introduction to Python and Jupyter Notebooks 
-- Workshop 2 (6/20): Data structures, flow control
-- Workshop 3 (6/25): Pandas, transcription factor binding site analysis
-- Workshop 4 (6/27): Pandas, statistics
+- Workshop 2 (6/20): Datatypes
+- Workshop 3 (6/25): Flow control 
+- Workshop 4 (6/27): Pandas, transcription factor binding site analysis
 - Workshop 5 (7/2): Matplotlib, RNA-seq analysis
 - Workshop 6 (7/9): Image analysis, cell segmentation
 - Workshop 7 (7/11): Scikit-learn, data modeling
