@@ -1,1 +1,4 @@
 BindingSiteSet.txt
+
+#logs#
+*.ipynb_checkpoints/
